@@ -1,5 +1,5 @@
 def reverse_each_word(sentence)
-  array = 
+  array = sentence
   sentence.each do |every_word|
   
   end
